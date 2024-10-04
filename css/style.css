@@ -79,3 +79,56 @@ list-style-type: none;
 text-decoration: none;  
 }
 
+
+.hero-image {
+    
+    width: 1440px;
+    height: 600px;
+    background-color: #2e2f42;
+    text-align: center;   
+}
+
+.hero-title {
+
+    width: 796px;
+    height: 120px;
+    top:260px;
+    left: 427px;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 2%;
+    color: #ffffff; 
+    text-align: center;
+
+}
+
+.hero-button  {
+
+    width: 105px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    background-color: #4D5AE5;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    text-align:center;
+}
+
+
+      
+     
+.button-input:hover  {
+
+   background-color: #404BBF;
+ }
+
+
+.hero-button:focus {
+
+    background-color: #404BBF;
+}
+
