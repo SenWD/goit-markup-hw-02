@@ -132,3 +132,32 @@ text-decoration: none;
     background-color: #404BBF;
 }
 
+
+.advantages-list  {
+   
+    width: 1128px; 
+    height: 104;
+    background-color: #ffffff;
+   
+}
+.advantages-name {
+   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color:#244455; 
+    
+
+}
+
+.advantages-text {
+
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color:#434445; 
+
+}
+
+
