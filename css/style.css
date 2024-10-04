@@ -160,4 +160,48 @@ text-decoration: none;
 
 }
 
+our-tema {
+    
+    width: 1440px; 
+    height:732;
+    background-color: #f4f4fd;
+    
+}
+
+.our-tema-title{
+
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 2%;
+text-transform: capitalize;
+color: #2e2f42;
+}
+
+
+
+
+.developer-list  {
+
+    background-color: #FFFFFF;
+}  
+
+.ide-name { 
+
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 2%;
+color: #2e2f42;
+}   
+
+.ide-jop {
+
+font-weight: 400;
+ font-size: 16px;
+line-height: 1.5;
+letter-spacing: 2%;
+color:#434455;
+text-align: left;
+}
 
