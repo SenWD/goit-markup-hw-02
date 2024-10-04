@@ -1,23 +1,23 @@
 .body-still {
-    font-family: "Roboto",sans-serif;
+    font-family:"Roboto",sans-serif;
     background-color:#FFFFFF;
     color:#434455;
 }
 
 body li {
-    list-style-type: none; 
+    list-style-type:none; 
         }
 
 
    .page-logo{ 
     
-        font-family: "Raleway", sans-serif;
+        font-family:"Raleway", sans-serif;
          font-weight:700;
          font-size:18px;
-         line-height: 1.17;
+         line-height:1.17;
          text-transform:uppercase;
-         text-decoration: none;
-         letter-spacing: 3%;
+         text-decoration:none;
+         letter-spacing:3%;
          color:#4d5ae5;
          
     }  
@@ -28,25 +28,25 @@ body li {
 
 
    .page-menu-list a {
-    text-decoration: none;
-    color: #422e30;
-    font-weight: 500;
-    font-size: 16PX;
+    text-decoration:none;
+    color:#422e30;
+    font-weight:500;
+    font-size:16PX;
     line-height:1.5;
     letter-spacing: 2%;
     }
 
 .page-menu-list { 
-list-style-type: none;
+list-style-type:none;
 }
 
  
 
 .list-name{
 font-weight:500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 2%;
+font-size:16px;
+line-height:1.5;
+letter-spacing:2%;
 color: #2e2f42;
 
 }
@@ -63,21 +63,21 @@ color:#40bbcf;
 
 .email-fone a { 
 
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.4;
-    letter-spacing: -2%;
+    font-weight:400;
+    font-size:16px;
+    line-height:1.4;
+    letter-spacing:-2%;
     color: #434455;
     font-style:normal;
     
 }       
 
 .email-fone li{
-list-style-type: none; 
+list-style-type:none; 
  }
 
 .email-fone a{
-text-decoration: none;  
+text-decoration:none;  
 }
 
 
@@ -106,16 +106,16 @@ text-decoration: none;
 
 .hero-button  {
 
-    width: 105px;
-    height: 36px;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 1.5;
-    letter-spacing: 4%;
-    background-color: #4D5AE5;
-    color: #ffffff;
-    cursor: pointer;
-    font-family: "Roboto", sans-serif;
+    width:105px;
+    height:36px;
+    font-weight:500;
+    font-size:12px;
+    line-height:1.5;
+    letter-spacing:4%;
+    background-color:#4D5AE5;
+    color:#ffffff;
+    cursor:pointer;
+    font-family:"Roboto", sans-serif;
     text-align:center;
 }
 
@@ -124,29 +124,29 @@ text-decoration: none;
      
 .button-input:hover  {
 
-   background-color: #404BBF;
+   background-color:#404BBF;
  }
 
 
 .hero-button:focus {
 
-    background-color: #404BBF;
+    background-color:#404BBF;
 }
 
 
 .advantages-list  {
    
-    width: 1128px; 
-    height: 104;
-    background-color: #ffffff;
+    width:1128px; 
+    height:104;
+    background-color:#ffffff;
    
 }
 .advantages-name {
    
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 2%;
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:2%;
     color:#244455; 
     
 
@@ -154,28 +154,28 @@ text-decoration: none;
 
 .advantages-text {
 
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 2%;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:2%;
     color:#434445; 
 
 }
 
 our-tema {
     
-    width: 1440px; 
+    width:1440px; 
     height:732;
-    background-color: #f4f4fd;
+    background-color:#f4f4fd;
     
 }
 
 .our-tema-title{
 
-font-size: 36px;
-line-height: 1.11;
-text-align: center;
-letter-spacing: 2%;
-text-transform: capitalize;
+font-size:36px;
+line-height:1.11;
+text-align:center;
+letter-spacing:2%;
+text-transform:capitalize;
 color: #2e2f42;
 }
 
@@ -184,31 +184,31 @@ color: #2e2f42;
 
 .developer-list  {
 
-    background-color: #FFFFFF;
+    background-color:#FFFFFF;
 }  
 
 .ide-name { 
 
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 2%;
-color: #2e2f42;
+font-weight:500;
+font-size:20px;
+line-height:1.2;
+letter-spacing:2%;
+color:#2e2f42;
 }   
 
 .ide-jop {
 
-font-weight: 400;
- font-size: 16px;
-line-height: 1.5;
-letter-spacing: 2%;
+font-weight:400;
+ font-size:16px;
+line-height:1.5;
+letter-spacing:2%;
 color:#434455;
-text-align: left;
+text-align:left;
 }
 .our-portfolio  {
    
-    width: 1128px; 
-    height: 1000;
+    width:1128px; 
+    height:1000;
     background:#FFFFFF;
    
 } 
@@ -216,14 +216,14 @@ text-align: left;
 
 
 .service-title {  
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 2%;
+    font-size:36px;
+    line-height:1.11;
+    text-align:center;
+    letter-spacing:2%;
     text-transform:capitalize; 
-    line-height: 1.5;
-    letter-spacing: 2%;
-    text-transform: capitalize;
+    line-height:1.5;
+    letter-spacing:2%;
+    text-transform:capitalize;
     color: #2e2f42;
 }
 
@@ -238,8 +238,8 @@ width:360px;
 .service-app-title {
 
     font-weight:500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size:20px;
+    line-height:1.2;
     letter-spacing: 2%;
     color:#2e2f42;
 
@@ -247,9 +247,9 @@ width:360px;
 
 
 .service-app-text  {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 2%;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:2%;
     color:#434445;
 
 }
@@ -257,14 +257,14 @@ width:360px;
 
 .foot-section {
    
-    width : 1440px;
+    width :1440px;
     height :312px;
     background-color:#2e2f42;
    
 }
 
 .foot-test{ 
-line-height: 1.5;
+line-height:1.5;
 color:#F4F4FD;
 letter-spacing:2%;
 }
