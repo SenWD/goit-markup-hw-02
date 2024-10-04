@@ -204,4 +204,53 @@ letter-spacing: 2%;
 color:#434455;
 text-align: left;
 }
+.our-portfolio  {
+   
+    width: 1128px; 
+    height: 1000;
+    background:#FFFFFF;
+   
+} 
+
+
+
+.service-title {  
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 2%;
+    text-transform:capitalize; 
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+
+
+.service-img-format {
+width:360px;
+}  
+
+
+
+.service-app-title {
+
+    font-weight:500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color:#2e2f42;
+
+}
+
+
+.service-app-text  {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color:#434445;
+
+}
+
 
