@@ -220,12 +220,6 @@ text-align:left;
 
 
 
-.service-list  .service-img-format {
-        width: 360px;
-}  
-
-
-
 .service-app-title {
 
     font-weight:500;
@@ -259,6 +253,7 @@ line-height:1.5;
 color:#F4F4FD;
 letter-spacing : 0.02em;
 }
-.foot-logo-spancolor {
+
+.foot-logo-spancolor{
 color:#2e2f42;
 }
