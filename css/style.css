@@ -59,12 +59,14 @@ color:#404bbf;
     color:#434455;
         }
 
-.addr{
+
+.addr {
     font-style:normal;  
 }
 
-.email :hover,
-.email :focus {
+
+.email-fone :hover,
+.email-fone :focus {
     color:#404bbf;
     }
    
@@ -196,7 +198,7 @@ text-align:left;
 
 .our-portfolio .service-title {  
     font-size:36px;
-    line-height:1.11;
+    line-height : 1.11;
     text-transform:capitalize; 
     line-height:1.5;
     letter-spacing : 0.02em;
