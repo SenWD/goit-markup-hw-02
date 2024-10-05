@@ -32,14 +32,14 @@ body li {
 } 
 
 
-.list-name {
+.page-menu .list-name {
     font-weight:500; 
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
     list-style-type:none;   
     text-decoration:none;  
-    color:#434455;
+    color:#2e2f42;
     }
 
 
