@@ -32,32 +32,22 @@ body li {
 } 
 
 
-.page-menu .list-name {
+.list-name {
     font-weight:500; 
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
-    }
-
-.list-name {
-    color:#2e3f42;
-  }
-
-
-.page-menu-list .list-name:hover,
-.page-menu-list .list-name:focus {
-        color:#404bbf;
+    list-style-type:none;   
+    text-decoration:none;  
+    color:#434455;
     }
 
 
-    .page-menu-list .list-name { 
-        list-style-type:none;   
-        
+.list-name:hover,
+.list-name:focus {
+color:#404bbf;
     }
 
-.email-fone  { 
-    font-style:normal;  
-    }       
 
 
 .email {
@@ -68,17 +58,20 @@ body li {
     color:#434455;
 }
 
+.email-fone  { 
+    font-style:normal;  
+    }       
+
+    .addr {
+        list-style-type:none;   
+        text-decoration:none;  
+        }
 
 .email :hover,
 .email :focus {
         color:#404bbf;
     }
    
-
-.addr {
-list-style-type:none;   
-text-decoration:none;  
-}
 
 .hero-image {
     
