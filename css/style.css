@@ -49,22 +49,15 @@ color:#404bbf;
     }
 
 
-
-.email {
+.email-fone .addr { 
+    font-style:normal;  
+    list-style-type:none;   
+    text-decoration:none;  
     font-weight:400;
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#434455;
-}
-
-.email-fone  { 
-    font-style:normal;  
-    }       
-
-    .addr {
-        list-style-type:none;   
-        text-decoration:none;  
         }
 
 .email :hover,
