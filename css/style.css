@@ -16,12 +16,15 @@ body li {
          font-size:18px;
          line-height:1.17;
          text-transform:uppercase;
-         text-decoration:none;
          color:#4d5ae5;
          letter-spacing:3%
          
     }  
     
+    .page-logo {
+        text-decoration:none;
+      }   
+
    .page-logo-spancolor {
     color:#2e2f42;
          
@@ -29,8 +32,8 @@ body li {
 } 
 
 
-.article-one a {
-    text-decoration:none;
+.list-one  {
+    
     font-weight:500; 
     font-size:16px;
     line-height:1.5;
@@ -40,12 +43,12 @@ body li {
 }
 
 
-.article-one a :hover {
+.list-one a :hover {
 
     color:#404bbf;
     }
     
-    .article-one a :focus {
+    .list-one a :focus {
         color:#404bbf;
     }
 
