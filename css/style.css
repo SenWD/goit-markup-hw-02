@@ -39,13 +39,13 @@ body li {
 }
     .page-menu-list .list-name {  
     letter-spacing : 0.02em;
-    color : #2e3f42;
+    color: #2e3f42;
 }
 
 
 .page-menu-list .list-name :hover,
 .page-menu-list .list-name:focus {
-        color:#404bbf;
+        color: #404bbf;
     }
 
 
@@ -69,12 +69,8 @@ body li {
 }
 
 
-.email :hover {
-
-    color:#404bbf;
-    }
-    
-    .email :focus {
+.email :hover,
+.email :focus {
         color:#404bbf;
     }
    
