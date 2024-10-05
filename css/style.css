@@ -190,7 +190,7 @@ color:#2e2f42;
 .ide-jop {
 
 font-weight:400;
- font-size:16px;
+font-size:16px;
 line-height:1.5;
 letter-spacing : 0.02em;
 color:#434455;
@@ -205,19 +205,19 @@ text-align:left;
 
 
 
-.service-title {  
+.our-portfolio .service-title {  
     font-size:36px;
     line-height:1.11;
-    text-align:center;
     text-transform:capitalize; 
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#2e2f42;
+    text-align:center;
 }
 
 
 
-.service-title .service-app-title{
+.our-portfolio .service-app-title{
     font-weight:500;
     font-size:20px;
     line-height:1.2;
@@ -226,7 +226,7 @@ text-align:left;
 }
 
 
-.service-title .service-app-text{
+.our-portfolio .service-app-text{
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
