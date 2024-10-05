@@ -50,7 +50,6 @@ color:#404bbf;
 
 
  .addr { 
-    font-style:normal;  
     list-style-type:none;   
     text-decoration:none;  
     font-weight:400;
@@ -60,9 +59,13 @@ color:#404bbf;
     color:#434455;
         }
 
+.addr{
+    font-style:normal;  
+}
+
 .email :hover,
 .email :focus {
-        color:#404bbf;
+    color:#404bbf;
     }
    
 
