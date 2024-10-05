@@ -17,74 +17,78 @@ body li {
          line-height:1.17;
          text-transform:uppercase;
          text-decoration:none;
-         letter-spacing:3%
          color:#4d5ae5;
+         letter-spacing:3%
          
     }  
     
-   .page-logo-color {
-        color:#2e2f42;
-   }
-
-
-   .page-menu-list a {
-    text-decoration:none;
+   .page-logo-spancolor {
     color:#2e2f42;
-    font-weight:500;
-    font-size:16PX;
+         
+    
+} 
+
+
+.article-one {
+    text-decoration:none;
+    font-weight:500; 
+    font-size:16px;
     line-height:1.5;
     letter-spacing:2%;
+    color:#2e2f42;
+
+}
+
+
+.article-one :hover {
+
+    color:#404bbf;
+    }
+    
+    .article-one :focus {
+        color:#404bbf;
     }
 
-.page-menu-list { 
-list-style-type:none;
+
+
+
+.list-name { 
+     
+    list-style-type:none;   
+    text-decoration:none;  
 }
 
- 
 
-.list-name {
-font-weight:500; 
-font-size:16px;
-line-height:1.5;
-letter-spacing:2%;
-color:#2e2f42;
-
-}
-
-.list-name: hover {
-
-color:#404bbf;
-}
-
-.list-name: focus {
-    color:#404bbf;
-}
 
 .email-fone  { 
     font-style:normal;  
     }       
 
 
-
-.email-fone a { 
+.email {
 
     font-weight:400;
     font-size:16px;
-    line-height:1.4;
-    letter-spacing:-2%;
+    line-height:1.5;
+    letter-spacing:2%;
     color: #434455;
-   
-    
-}       
-
-.email-fone li{
-list-style-type:none; 
- }
-
-.email-fone a { 
-text-decoration:none;  
 }
 
+
+.email :hover {
+
+    color:#404bbf;
+    }
+    
+    .email :focus {
+        color:#404bbf;
+    }
+   
+
+.addr {
+list-style-type:none;   
+text-decoration:none;  
+}
 
 .hero-image {
     
@@ -103,7 +107,7 @@ text-decoration:none;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 2%;
+    letter-spacing:2%;
     color: #ffffff; 
     text-align: center;
 
@@ -114,7 +118,7 @@ text-decoration:none;
     width:105px;
     height:36px;
     font-weight:500;
-    font-size:12px;
+    font-size:16px;
     line-height:1.5;
     letter-spacing:4%;
     background-color:#4D5AE5;
@@ -127,7 +131,7 @@ text-decoration:none;
 
       
      
-.button-input:hover  {
+.hero-button:hover  {
 
    background-color:#404BBF;
  }
