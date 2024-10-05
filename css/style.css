@@ -39,7 +39,7 @@ body li {
     letter-spacing : 0.02em;
 }
 
-.page-menu-list .list-name {
+.page-menu-list a{ 
     color:#2e3f42;
 }
 
