@@ -41,28 +41,21 @@ body li {
 }
 
 
-#list-one a : hover {
+#list-one a :hover {
 
     color:#404bbf;
     }
     
-#list-one a : focus {
+#list-one a :focus {
         color:#404bbf;
     }
 
 
-
-
-.list-name { 
+    .list-name { 
      
-    list-style-type:none;   
-    text-decoration:none;  
-}
-
-
-
-
-
+        list-style-type:none;   
+        
+    }
 
 .email-fone  { 
     font-style:normal;  
