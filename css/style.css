@@ -17,7 +17,7 @@ body li {
          line-height:1.17;
          text-transform:uppercase;
          color:#4d5ae5;
-         letter-spacing:0.03em;
+         letter-spacing : 0.03em;
          
     }   
     
@@ -64,7 +64,7 @@ body li {
     font-weight:400;
     font-size:16px;
     line-height:1.5;
-    letter-spacing:0.02em;
+    letter-spacing : 0.02em;
     color: #434455;
 }
 
@@ -101,7 +101,7 @@ text-decoration:none;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing:0.02em;
+    letter-spacing : 0.02em;
     color: #ffffff; 
     text-align: center;
 
@@ -114,7 +114,7 @@ text-decoration:none;
     font-weight:500;
     font-size:16px;
     line-height:1.5;
-    letter-spacing:4%;
+    letter-spacing : 0.04em;
     background-color:#4D5AE5;
     color:#ffffff;
     cursor:pointer;
@@ -149,7 +149,7 @@ text-decoration:none;
     font-weight:500;
     font-size:16px;
     line-height:1.5;
-    letter-spacing:2%;
+    letter-spacing : 0.02em;
     color:#244455; 
     
 
@@ -159,7 +159,7 @@ text-decoration:none;
 
     font-size:16px;
     line-height:1.5;
-    letter-spacing:2%;
+    letter-spacing : 0.02em;
     color:#434445; 
 
 }
@@ -177,7 +177,7 @@ our-tema {
 font-size:36px;
 line-height:1.11;
 text-align:center;
-letter-spacing:2%;
+letter-spacing : 2em;
 text-transform:capitalize;
 color: #2e2f42;
 }
@@ -195,7 +195,7 @@ color: #2e2f42;
 font-weight:500;
 font-size:20px;
 line-height:1.2;
-letter-spacing:2%;
+letter-spacing : 2em;
 color:#2e2f42;
 }   
 
@@ -204,7 +204,7 @@ color:#2e2f42;
 font-weight:400;
  font-size:16px;
 line-height:1.5;
-letter-spacing:2%;
+letter-spacing : 2em;
 color:#434455;
 text-align:left;
 }
@@ -225,7 +225,7 @@ text-align:left;
     letter-spacing:2%;
     text-transform:capitalize; 
     line-height:1.5;
-    letter-spacing:2%;
+    letter-spacing : 2em;
     text-transform:capitalize;
     color: #2e2f42;
 }
@@ -243,7 +243,7 @@ width:360px;
     font-weight:500;
     font-size:20px;
     line-height:1.2;
-    letter-spacing: 2%;
+    letter-spacing : 2em;
     color:#2e2f42;
 
 }
@@ -252,7 +252,7 @@ width:360px;
 .service-app-text  {
     font-size:16px;
     line-height:1.5;
-    letter-spacing:2%;
+    letter-spacing : 0.02em;
     color:#434445;
 
 }
@@ -269,9 +269,8 @@ width:360px;
 .foot-test{ 
 line-height:1.5;
 color:#F4F4FD;
-letter-spacing:2%;
+letter-spacing : 0.02em;
 }
 .foot-logo-color {
 color:#ffffff;
 }
-
