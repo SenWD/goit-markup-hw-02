@@ -49,8 +49,7 @@ color:#404bbf;
     }
 
 
-    .email-fone { 
-    
+.email-fone { 
     font-weight:400;
     font-size:16px;
     line-height:1.5;
@@ -59,11 +58,12 @@ color:#404bbf;
     font-style:normal;  
         }
 
+        
     .email-fone{
         list-style-type:none;   
         text-decoration:none;     
      }
-     
+
 .email-fone :hover,
 .email-fone :focus {
     color:#404bbf;
