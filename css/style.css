@@ -37,8 +37,12 @@ body li {
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
+}
+
+.page-menu-list .list-name {
     color:#2e3f42;
 }
+
 
 
 .page-menu-list .list-name :hover,
@@ -48,7 +52,6 @@ body li {
 
 
     .page-menu-list .list-name { 
-     
         list-style-type:none;   
         
     }
@@ -119,19 +122,13 @@ text-decoration:none;
 
       
      
-.hero-button:hover  {
-
-   background-color:#404BBF;
- }
-
-
+.hero-button:hover,
 .hero-button:focus {
-
     background-color:#404BBF;
 }
 
 
-.advantages-list  {
+.advantages-list {
    
     width:1128px; 
     height:104;
