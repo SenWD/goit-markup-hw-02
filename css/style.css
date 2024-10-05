@@ -37,13 +37,13 @@ body li {
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
-    color: #2e3f42;
+    color:#2e3f42;
 }
 
 
 .page-menu-list .list-name :hover,
 .page-menu-list .list-name:focus {
-        color: #404bbf;
+        color:#404bbf;
     }
 
 
@@ -63,7 +63,7 @@ body li {
     font-size:16px;
     line-height:1.5;
     letter-spacing : 0.02em;
-    color: #434455;
+    color:#434455;
 }
 
 
@@ -82,7 +82,7 @@ text-decoration:none;
     
     width: 1440px;
     height: 600px;
-    background-color: #2e2f42;
+    background-color:#2e2f42;
     text-align: center;   
 }
 
@@ -96,7 +96,7 @@ text-decoration:none;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing : 0.02em;
-    color: #ffffff; 
+    color:#ffffff; 
     text-align: center;
 
 }
@@ -173,7 +173,7 @@ line-height:1.11;
 text-align:center;
 letter-spacing : 2em;
 text-transform:capitalize;
-color: #2e2f42;
+color:#2e2f42;
 }
 
 
@@ -221,7 +221,7 @@ text-align:left;
     line-height:1.5;
     letter-spacing : 2em;
     text-transform:capitalize;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 
 
