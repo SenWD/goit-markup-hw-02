@@ -4,11 +4,6 @@
     color:#434455;
 }
 
-body li ,
- {
-    test-style-type:none;
-         }
-
    .page-logo { 
         font-family:"Raleway", sans-serif;
          font-weight:700;
@@ -17,16 +12,9 @@ body li ,
          text-transform:uppercase;
          color:#4d5ae5;
          letter-spacing : 0.03em;
-        
+        text-decoration: none;
     }   
     
-    .page-logo,
-    .list-name ,
-    .addr {
-        text-decoration:none;
-        font-style: normal;
-        
-      }   
 
    .page-logo-spancolor {
     color:#2e2f42;
@@ -40,9 +28,12 @@ body li ,
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#2e2f42;
- 
+    text-decoration: none;
     }
-
+    
+    body li {
+    list-style-type: none;
+}
 
 .list-name:hover,
 .list-name:focus {
@@ -56,6 +47,7 @@ body li ,
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#434455;
+    text-decoration: none;
      }
 
 .email-fone a{ 
