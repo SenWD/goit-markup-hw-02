@@ -47,13 +47,13 @@
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#434455;
-    font-style:normal; 
+    
      }
 
 .email-fone a{ 
-    
-}   text-decoration: none;
-
+    font-style:normal; 
+   text-decoration:none;
+ }
 
 .email-fone :hover,
 .email-fone :focus {
