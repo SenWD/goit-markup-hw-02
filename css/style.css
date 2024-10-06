@@ -81,8 +81,7 @@ address a{
 
 .hero-button  {
 
-    width:105px;
-    height:36px;
+    
     font-weight:500;
     font-size:16px;
     line-height:1.5;
@@ -105,8 +104,7 @@ address a{
 
 .advantages-list {
    
-    width:1128px; 
-    height:104;
+    
     background-color:#ffffff;
    
 }
@@ -131,8 +129,7 @@ address a{
 
 .our-tema {
     
-    width:1440px; 
-    height:732;
+    
     background-color:#f4f4fd;
 }
 
@@ -174,8 +171,7 @@ text-align:left;
 }
 
 .our-portfolio  {
-    width:1128px; 
-    height:1000;
+    
     background-color:#FFFFFF;
 } 
 
@@ -217,8 +213,7 @@ text-align:left;
 
 
 .foot-section {
-    width :1440px;
-    height :312px;
+    
     background-color:#2e2f42;
    
 }
