@@ -192,14 +192,15 @@ text-align:left;
     letter-spacing : 0.02em;
     color:#2e2f42;
     text-align:center;
-    line-height:1.11;
-
+   
 }
 
-
-.service-title { 
-
+    .our-portfolio h2 {  
+        line-height:1.11;
+        
  }
+
+
 
 .our-portfolio .service-app-title {
     font-weight:500;
