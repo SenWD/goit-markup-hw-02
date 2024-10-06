@@ -1,4 +1,4 @@
-.body-still {
+.body-main {
     font-family:"Roboto",sans-serif;
     background-color:#FFFFFF;
     color:#434455;
@@ -222,6 +222,7 @@ line-height:1.5;
 color:#F4F4FD;
 letter-spacing : 0.02em;
 }
+
  .foot-section .spancolor { 
 color:#F4F4FD;
 }   
