@@ -185,18 +185,20 @@ text-align:left;
 
 
 
-.our-portfolio .service-title {  
+.our-portfolio h2 {  
     font-size:36px;
     text-transform:capitalize; 
     line-height:1.5;
     letter-spacing : 0.02em;
     color:#2e2f42;
     text-align:center;
+    line-height:1.11;
+
 }
 
 
 .service-title { 
-line-height:1.11;
+
  }
 
 .our-portfolio .service-app-title {
