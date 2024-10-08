@@ -1,3 +1,243 @@
+.body-main {
+    font-family:"Roboto",sans-serif;
+   
+    color:#434455;
+}
+
+   .page-logo { 
+        font-family:"Raleway", sans-serif;
+         font-weight:700;
+         font-size:18px;
+         line-height:1.17;
+         text-transform:uppercase;
+         color:#4d5ae5;
+         letter-spacing : 0.03em;
+        text-decoration: none;
+        width:105px;
+         height:36px;
+  
+
+    }   
+    
+
+
+
+
+
+.page-logo-spancolor {
+    color:#2e2f42;
+         
+    
+} 
+
+.list-name {
+    font-weight:500; 
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing : 0.02em;
+    color:#2e2f42;
+    text-decoration: none;
+    width:261px;
+    height:26px;
+
+    }
+
+    body li {
+    list-style-type: none;
+}
+
+.list-name:hover,
+.list-name:focus {
+    color:#404bbf;
+    }
+
+ .addr { 
+    font-weight:400;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing : 0.02em;
+    font-style:normal; 
+     }
+ .addr { 
+    color:#434455;
+   text-decoration:none;
+ }
+
+.addr :hover,
+.addr :focus {
+    color:#404bbf;
+    }
+   
+
+.hero-image {
+    
+    
+    background-color:#2e2f42;
+    text-align: center;   
+}
+
+.hero-title {
+
+   
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing : 0.02em;
+    color:#ffffff; 
+    text-align: center;
+
+}
+
+.hero-button  {
+
+    
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing : 0.04em;
+    background-color:#4D5AE5;
+    color:#ffffff;
+    cursor:pointer;
+    font-family:"Roboto", sans-serif;
+    text-align:center;
+}
+
+
+      
+     
+.hero-button:hover,
+.hero-button:focus {
+    background-color:#404BBF;
+}
+
+
+.advantages-list {
+   
+    
+    background-color:#ffffff;
+   
+}
+.advantages-name {
+   
+    font-weight:500;
+    font-size:20px;
+    line-height:1.2;
+    letter-spacing : 0.02em;
+    color:#2e2f42; 
+  
+}
+
+.advantages-text {
+
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing : 0.02em;
+    color:#434455; 
+
+}
+
+.our-tema {
+    
+    
+    background-color:#f4f4fd;
+}
+
+.our-tema-title {
+
+font-size:36px;
+line-height:1.11;
+text-align:center;
+letter-spacing : 0.02em;
+text-transform:capitalize;
+color:#2e2f42;
+}
+
+
+
+
+.developer-list  {
+
+    background-color:#FFFFFF;
+}  
+
+.ide-name { 
+
+font-weight:500;
+font-size:20px;
+line-height:1.2;
+letter-spacing : 0.02em;
+color:#2e2f42;
+}   
+
+.ide-jop {
+
+font-weight:400;
+font-size:16px;
+line-height:1.5;
+letter-spacing : 0.02em;
+color:#434455;
+text-align:left;
+}
+
+.our-portfolio  {
+    
+    background-color:#FFFFFF;
+} 
+
+
+
+.our-portfolio h2 {  
+    font-size:36px;
+    text-transform:capitalize; 
+    line-height:1.5;
+    letter-spacing : 0.02em;
+    color:#2e2f42;
+    text-align:center;
+   
+}
+
+    .our-portfolio h2 {  
+        line-height:1.11;
+        
+ }
+
+
+
+.our-portfolio .service-app-title {
+    font-weight:500;
+    font-size:20px;
+    line-height:1.2;
+    letter-spacing : 0.02em;
+    color:#2e2f42;
+}
+
+
+.our-portfolio .service-app-text {
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing : 0.02em;
+    color:#434455;
+
+}
+
+
+.foot-section {
+    
+    background-color:#2e2f42;
+   
+}
+
+.foot-text { 
+line-height:1.5;
+color:#F4F4FD;
+letter-spacing : 0.02em;
+}
+
+ .foot-section .spancolor { 
+color:#F4F4FD;
+} 
+
+
 
 
 
@@ -6,8 +246,7 @@
     height:24px;
     margin-top:24px;
     margin-left: 156px; 
-    border: 1px solid #e54dbf;
-    background-color: #4de5c2;
+    
 }
 
 .menu-one,
@@ -17,7 +256,7 @@
     width:70px;
     height:24px;
     box-sizing:border-box;
-    border: 1px solid #e54dbf;
+ 
 }
 
 .menu { 
@@ -29,8 +268,6 @@
 flex-direction: row;
   box-sizing:border-box;
   
-    border: 1px solid #e54dbf;
-    background-color :#d3e54d;
 }
 
 
@@ -42,7 +279,7 @@ flex-direction: row;
    margin-left:332px; 
 
     
-    background-color: #e5874d;
+  
 }
 
 
@@ -57,7 +294,7 @@ flex-direction: row;
 
 .container {
    
-   border: 1px solid #e54dbf;
+ 
    width: 1440px;
    height: 72px;
    margin-left:0 auto;
@@ -66,7 +303,7 @@ flex-direction: row;
     
     
   
-    box-sizing:border-box;
+  
  }
 
 
