@@ -1,0 +1,73 @@
+
+
+
+.logo {
+    width:115px;
+    height:24px;
+    margin-top:24px;
+    margin-left: 156px; 
+    border: 1px solid #e54dbf;
+    background-color: #4de5c2;
+}
+
+.menu-one,
+.menu-two,
+.menu-three {
+
+    width:70px;
+    height:24px;
+    box-sizing:border-box;
+    border: 1px solid #e54dbf;
+}
+
+.menu { 
+    width:261px;
+    height:24px;
+    margin-top:24px;
+    margin-left:76px;
+  display:flex;
+flex-direction: row;
+  box-sizing:border-box;
+  
+    border: 1px solid #e54dbf;
+    background-color :#d3e54d;
+}
+
+
+
+.mail{
+    width: 153px;
+    height: 24px;
+    margin-top:24px;
+   margin-left:332px; 
+
+    
+    background-color: #e5874d;
+}
+
+
+.telephone{
+    width: 151px;
+    height: 24px;
+    margin-top:24px;
+    margin-left:40px;
+
+ 
+}
+
+.container {
+   
+   border: 1px solid #e54dbf;
+   width: 1440px;
+   height: 72px;
+   margin-left:0 auto;
+   display:flex;
+    flex-direction: row;
+    
+    
+  
+    box-sizing:border-box;
+ }
+
+
+

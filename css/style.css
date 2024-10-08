@@ -1,6 +1,6 @@
 .body-main {
     font-family:"Roboto",sans-serif;
-    background-color:#FFFFFF;
+   
     color:#434455;
 }
 
@@ -13,8 +13,16 @@
          color:#4d5ae5;
          letter-spacing : 0.03em;
         text-decoration: none;
+        width:105px;
+         height:36px;
+  
+
     }   
     
+}
+
+
+
 
    .page-logo-spancolor {
     color:#2e2f42;
@@ -29,6 +37,9 @@
     letter-spacing : 0.02em;
     color:#2e2f42;
     text-decoration: none;
+    width:261px;
+    height:26px;
+
     }
 
     body li {
